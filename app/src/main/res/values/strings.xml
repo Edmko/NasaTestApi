@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NasaTestApi</string>
+    <string name="earth">Earth</string>
+    <string name="mars">Mars</string>
+    <string name="other">Other</string>
+    <string name="weather">Weather</string>
+</resources>
